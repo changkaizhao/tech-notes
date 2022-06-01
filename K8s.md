@@ -1,5 +1,10 @@
 # K8s note
 
+## CRI 容器运行时替换为containerd
+> 不要使用docker的容器运行时，使用去除docker-slim的运行时containerd
+
+
+
 ## pod
 
 ```yaml
