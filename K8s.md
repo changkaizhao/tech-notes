@@ -104,13 +104,14 @@ spec:         　　　　　　　#必选，Pod中容器的详细定义
 
 ## Deployment
 
-
+---
 ## Service
-
+---
 
 ## Ingress
-
+---
 
 ## Security
-
-### 
+---
+## CD platform
+spinnaker cd platform for k8s
